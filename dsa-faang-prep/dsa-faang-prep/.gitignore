@@ -1,0 +1,5 @@
+*.out
+*.exe
+/sol
+.DS_Store
+.vscode/
